@@ -15,3 +15,7 @@ I’m a student passionate about technology and software development.
 ## 🚀 Current Projects
 - Restaurant system with PrimeFaces  
 - Parking game built with Kaboom.js
+
+## 📫 Contact
+- [LinkedIn](https://linkedin.com/in/felipe-tramontin)
+- Email: felipetramontin2008@gmail.com
