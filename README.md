@@ -1,30 +1,36 @@
-# 👨‍💻 Felipe Tramontin
+# Hey there, I'm Felipe Tramontin 👋
 
-I’m a student passionate about technology, software development, and also a volleyball player 🏐.  
-Currently living in the USA 🇺🇸, I dream of becoming a software engineer.
+I'm a computer science student focused on backend engineering, API development, and building clean, maintainable systems. I enjoy solving real problems with code and documenting my work clearly so others can build on it.
 
----
+## 🛠️ Technologies & Tools
 
-## 🛠️ Skills
-- **Languages:** Java, JavaScript, Python, C==, C, HTML, CSS
-- **Frameworks:** Spring Boot, Node.js
-- **Tools:** Git, VS Code, Github  
+- **Languages:** JavaScript, Python, SQL, HTML, CSS
+- **Backend:** Node.js, Express, Sequelize, REST APIs
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** VS Code, Git, GitHub, Jest, Supertest
+- **Currently Learning:** React, CI/CD pipelines, advanced SQL
 
----
+## 🚀 Featured Projects
 
-## 🎯 What I’m Learning
-- 📚 Algorithms and Data Structures  
-- 🌐 Web development with React  
-- 🏗️ Software Engineering concepts  
+### 🏋️ Fitness Tracking API
+A full CRUD API for users, sessions, exercises, and workouts. Includes authentication, validation, and structured logging.
 
----
+- **Tech:** Node.js, Express, Sequelize, PostgreSQL  
+- **Repo:** https://github.com/felipetramontin/COMPSIX-MVP
 
-## 🚀 Current Projects
-- 🍔 Restaurant management system with PrimeFaces  
-- 🚗 Parking game built with Kaboom.js  
+### 🌤️ Weather Dashboard
+A responsive weather dashboard using the OpenWeather API with async JavaScript and dynamic UI updates.
 
----
+- **Tech:** JavaScript, HTML/CSS, REST APIs  
+- **Repo:** https://github.com/felipetramontin/COMPSVII-campus-life-super-app
 
-## 📫 Where to Find Me
-- 💼 [LinkedIn](https://linkedin.com/in/felipe-tramontin) 
-- ✉️ felipetramontin2008@gmail.com
+## 🌱 What I'm Working On
+
+- Improving my GitHub portfolio  
+- Building more backend-focused projects  
+- Learning React to expand into full‑stack development  
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/felipetramontin
+- **Email:** felipetramontin2008@gmail.com
